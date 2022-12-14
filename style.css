@@ -1,0 +1,26 @@
+header {
+    background-color: cadetblue;
+    overflow: auto;
+}
+
+ul {
+    text-align: right;
+}
+
+li {
+    display: inline;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+body {
+padding: 0px;
+margin: 0px;
+}
+
+section {
+    text-align: center;
+}
